@@ -68,7 +68,7 @@
 				<a href="#" class="list-group-item">欧美</a>
 				<a href="#" class="list-group-item">全部</a>
 				<a href="indexmore.php" class="list-group-item">查询会员信息</a>
-				<a href="indexmore.php" class="list-group-item">留言反馈</a>
+				<a href="xsstest.php" class="list-group-item">留言反馈</a>
 			</div>
 		</div>
 		<div class="col-sm-7">
@@ -191,7 +191,7 @@
 			</div>
 
 		</div>
-		<div class="col-sm-3" >数据库账号密码皆为root，隐藏了一个后台管理员地址adminmain.php可以用来管理页面，登录后可以看到下载和预览的按钮但是只是连接因为下载网上漫画资源是侵权的所以我就没做，就是这样。
+		<div class="col-sm-3" ><!-- 数据库账号密码皆为root，隐藏了一个后台管理员地址adminmain.php可以用来管理页面，登录后可以看到下载和预览的按钮但是只是连接因为下载网上漫画资源是侵权的所以我就没做，就是这样。 -->
 		</div>
 		</div>
 

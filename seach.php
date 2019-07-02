@@ -68,7 +68,7 @@
 				<a href="#" class="list-group-item">欧美</a>
 				<a href="#" class="list-group-item">全部</a>
 				<a href="indexmore.php" class="list-group-item">查询会员信息</a>
-				<a href="indexmore.php" class="list-group-item">留言反馈</a>
+				<a href="xsstest.php" class="list-group-item">留言反馈</a>
 			</div>
 		</div>
 		<div class="col-sm-7">
@@ -137,7 +137,7 @@
 			</div>
 			
 		</div>
-		<div class="col-sm-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id unde, ut placeat adipisci quod incidunt animi expedita enim similique sapiente? Consequuntur, accusamus dignissimos est, quod ad debitis cupiditate necessitatibus commodi!</div>
+		<!-- <div class="col-sm-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id unde, ut placeat adipisci quod incidunt animi expedita enim similique sapiente? Consequuntur, accusamus dignissimos est, quod ad debitis cupiditate necessitatibus commodi!</div> -->
 		</div>
 
 	</div>
