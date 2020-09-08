@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `tb_admin` (
 --
 
 INSERT INTO `tb_admin` (`id`, `name`, `password`) VALUES
-(1, 'root', 'ghq19980425'),
+(1, 'root', 'ghqghqghq'),
 (2, 'admin', 'admin');
 
 -- --------------------------------------------------------
